@@ -1,4 +1,4 @@
-# Probabilidades del Póquer. Manuel González García.
+# Probabilidades Poker.
 
 # Lista con las 48 cartas. 
 # Representación de las cartas: [1-12] Diamantes, [13-24] Corazones, [25-36] Treboles y [37-48] Picas.
@@ -126,5 +126,4 @@ for (j in 1:10000){
 nt
 # El porcentaje de obtener tríos en 10000 manos será por tanto:
 nt/10000*100
-# Un porcentaje muy parecido al calculado en el papel.
 
